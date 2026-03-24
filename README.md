@@ -5,8 +5,10 @@
 
   **Software Engineering Student · Systems Programmer · AI-Integrated Developer**
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Oratias07-181717?style=flat&logo=github)](https://github.com/Oratias07)
+  📍 Israel &nbsp;|&nbsp; Building at the hardware-software boundary &nbsp;|&nbsp; Moving into security
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-or--atias-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/or-atias-676097341)
+  [![GitHub](https://img.shields.io/badge/GitHub-Oratias07-181717?style=flat&logo=github)](https://github.com/Oratias07)
 
 </div>
 
