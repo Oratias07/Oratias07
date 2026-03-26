@@ -35,7 +35,6 @@ Second-year Software Engineering student at Braude College of Engineering (GPA: 
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oratias07&show_icons=true&theme=dark&hide_border=true&count_private=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oratias07&layout=compact&theme=dark&hide_border=true)
 
 </div>
