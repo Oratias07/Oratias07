@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi, I'm Or Atias
+  ### Hi, I'm Or Atias
 
   **Software Engineering Student · Systems Programming · AI Integration · Security**
 
