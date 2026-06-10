@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Oratias07/Oratias07/main/ProfilePicture2026-03-24.jpeg" alt="Or Atias" width="150" style="border-radius: 50%;" />
-
   # Hi, I'm Or Atias
 
   **Software Engineering Student · Systems Programming · AI Integration · Security**
