@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Oratias07/Oratias07/main/ProfilePicture2026-03-24.jpeg" alt="Or Atias" width="150" style="border-radius: 50%;" />
-
-  # Hi, I'm Or Atias
+  Hi, I'm Or Atias
 
   **Software Engineering Student · Systems Programming · AI Integration · Security**
 
@@ -16,9 +14,10 @@
 
 ### About Me
 
-Second-year Software Engineering student at Braude College of Engineering (GPA: 85), with hands-on experience in systems programming, AI integration, and security. I architect and ship production systems — from full-stack AI-integrated platforms to low-level C/C++ applications with manual memory management.
-
-I teach C programming to Ministry of Defense personnel under the Cyber Education Program, and TA systems programming at Braude — diagnosing segfaults, memory corruption, and undefined behavior across student codebases daily. My work lives at the hardware-software boundary, which is what draws me toward security.
+Third-year Software Engineering student (GPA 85) with hands-on experience in low-level C/C++ systems
+programming, full-stack AI integration, and security-focused backend work. Teaches C to Ministry of Defense
+personnel and TAs systems programming at Braude - sharpening precision, composure under pressure, and
+the ability to own complex debugging end-to-end.
 
 ---
 
@@ -75,8 +74,9 @@ RAG · Multi-provider orchestration · Prompt engineering · Prompt injection de
 |---|---|---|
 | [CHAM-Agent](https://github.com/Oratias07/CHAM-Agent) | TypeScript · React 19 · MongoDB · Vercel | Production SaaS grading platform: sandboxed code execution (Judge0), multi-provider LLM pipeline (Groq → Gemini → OpenAI), RAG study assistant, prompt injection defense — [live](https://stsystem.vercel.app) |
 | [C-protfolio](https://github.com/Oratias07/C-protfolio) | C | Custom malloc/free from scratch: block metadata, first-fit & best-fit, coalescing — stress-tested against double-free and fragmentation |
+| [file_crypt](https://github.com/Oratias07/os-concurrency-cryptography) | C | ChaCha20 file encryption (RFC 8439): SHA-256 authentication, /dev/urandom nonces, cleanly separated cipher primitives and key/nonce management — crypto limitations documented as a reference |
 | [AI-workflow](https://github.com/Oratias07/AI-workflow) | — | How I work with AI — prompts, methodology, and principles for developers moving into security |
-| [Learning-Center-by-Gemini](https://github.com/Oratias07/Learning-Center-by-Gemini) | TypeScript | Conversational study tool via Gemini API |
+| [Computing-Foundamentals](https://github.com/Oratias07/Computing-Foundamentals) | HDL · Assembly | Nand2Tetris computer built from first principles: Boolean gates → ALU → sequential logic (registers, RAM) → working CPU, each unit tested against hardware-simulation specs |
 
 ---
 
