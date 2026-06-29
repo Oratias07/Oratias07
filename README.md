@@ -14,9 +14,10 @@
 
 ### About Me
 
-Second-year Software Engineering student at Braude College of Engineering (GPA: 85), with hands-on experience in systems programming, AI integration, and security. I architect and ship production systems — from full-stack AI-integrated platforms to low-level C/C++ applications with manual memory management.
-
-I teach C programming to Ministry of Defense personnel under the Cyber Education Program, and TA systems programming at Braude — diagnosing segfaults, memory corruption, and undefined behavior across student codebases daily. My work lives at the hardware-software boundary, which is what draws me toward security.
+Third-year Software Engineering student (GPA 85) with hands-on experience in low-level C/C++ systems
+programming, full-stack AI integration, and security-focused backend work. Teaches C to Ministry of Defense
+personnel and TAs systems programming at Braude — sharpening precision, composure under pressure, and
+the ability to own complex debugging end-to-end.
 
 ---
 
