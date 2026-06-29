@@ -16,7 +16,7 @@
 
 Third-year Software Engineering student (GPA 85) with hands-on experience in low-level C/C++ systems
 programming, full-stack AI integration, and security-focused backend work. Teaches C to Ministry of Defense
-personnel and TAs systems programming at Braude — sharpening precision, composure under pressure, and
+personnel and TAs systems programming at Braude - sharpening precision, composure under pressure, and
 the ability to own complex debugging end-to-end.
 
 ---
