@@ -19,19 +19,21 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="420"></a></td>
-<td width="50%"><a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist.svg" alt="autolist-engine: product photo to approved listing" width="420"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="420"></a></td>
-<td width="50%"><a href="https://github.com/Oratias07/telegram-ai-assistant"><img src="assets/telegram.svg" alt="telegram-ai-assistant: web search with sources" width="420"></a></td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center"><a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-systems.svg" alt="Operating Systems in C: concurrency labs, garage simulator, shell and file encryptor" width="860"></a></td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420"></a>
+
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><picture>
+<source media="(max-width: 600px)" srcset="assets/os-systems-m.svg">
+<img src="assets/os-systems.svg" alt="Operating Systems in C: concurrency labs, garage simulator, shell and file encryptor" width="860">
+</picture></a>
+
+<a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="420"></a>
+<a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist.svg" alt="autolist-engine: product photo to approved listing" width="420"></a>
+<a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="420"></a>
+<a href="https://github.com/Oratias07/telegram-ai-assistant"><img src="assets/telegram.svg" alt="telegram-ai-assistant: web search with sources" width="420"></a>
+
+</div>
 
 <details>
 <summary><b>More projects</b> (click to expand)</summary>
