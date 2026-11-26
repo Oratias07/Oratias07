@@ -2,9 +2,11 @@
 
 <img src="assets/hero.svg" alt="Or Atias, Software Engineering student" width="100%">
 
-<a href="https://www.linkedin.com/in/oratias07"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:atiasor85@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="48"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://stsystem.vercel.app"><img src="assets/btn-demo.svg" alt="Live demo of CHAM-Agent" height="48"></a>
+<br>
+
+<a href="https://www.linkedin.com/in/oratias07"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:atiasor85@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="42"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stsystem.vercel.app"><img src="assets/btn-demo.svg" alt="Live demo of CHAM-Agent" height="42"></a>
 
 </div>
 
