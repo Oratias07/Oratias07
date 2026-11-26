@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" role="img" aria-label="From logic gates, to C and the operating system, to AI systems">
+<title>From logic gates, to C and the operating system, to AI systems</title>
+<g transform="translate(20,20)">
+ <rect width="250" height="100" rx="14" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+ <rect width="250" height="100" rx="14" fill="#58a6ff" opacity=".08"/>
+ <g transform="translate(22,26)" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4H20Q38 4 38 24T20 44H2Z"/><path d="M-6 14H2M-6 34H2M38 24H46"/></g>
+ <text x="86" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e6edf3">Logic gates</text>
+ <text x="86" y="70" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">a CPU built from NAND</text>
+</g>
+<path d="M280 70H355" stroke="#58a6ff" stroke-width="3" stroke-dasharray="8 8" fill="none"><animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.2s" repeatCount="indefinite"/></path><path d="M351 62L363 70L351 78" stroke="#58a6ff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(375,20)">
+ <rect width="250" height="100" rx="14" fill="#0d1117" stroke="#f0883e" stroke-width="2"/>
+ <rect width="250" height="100" rx="14" fill="#f0883e" opacity=".08"/>
+ <g transform="translate(22,26)" fill="none" stroke="#f0883e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="2" width="44" height="40" rx="6"/><path d="M10 15L19 22L10 29M24 32H34"/></g>
+ <text x="86" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e6edf3">C and the OS</text>
+ <text x="86" y="70" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">threads · encryption</text>
+</g>
+<path d="M635 70H710" stroke="#58a6ff" stroke-width="3" stroke-dasharray="8 8" fill="none"><animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.2s" repeatCount="indefinite"/></path><path d="M706 62L718 70L706 78" stroke="#58a6ff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(730,20)">
+ <rect width="250" height="100" rx="14" fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
+ <rect width="250" height="100" rx="14" fill="#3fb950" opacity=".08"/>
+ <g transform="translate(22,26)" fill="none" stroke="#3fb950" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="12" width="40" height="30" rx="8"/><path d="M22 12V4"/><circle cx="22" cy="3" r="2"/><circle cx="15" cy="26" r="3"/><circle cx="29" cy="26" r="3"/><path d="M15 36H29"/></g>
+ <text x="86" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e6edf3">AI systems</text>
+ <text x="86" y="70" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">graders · agents</text>
+</g>
+</svg>

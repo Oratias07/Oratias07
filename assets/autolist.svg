@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" role="img" aria-label="autolist-engine: Email a product photo to an AI agent. It writes the listing and goes live only after you approve.">
+<title>autolist-engine</title>
+<rect x=".5" y=".5" width="499" height="159" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="7" height="160" rx="3" fill="#f0883e"/>
+<g transform="translate(30,24)" fill="none" stroke="#f0883e" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="28" height="20" rx="4"/><path d="M3 9L16 19L29 9"/></g>
+<text x="76" y="44" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#e6edf3">autolist-engine</text>
+<text x="28" y="82" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">Email a product photo to an AI agent. It writes the</text>
+<text x="28" y="102" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">listing and goes live only after you approve.</text>
+<rect x="28" y="112" width="54" height="26" rx="13" fill="#f0883e" fill-opacity=".14"/><text x="55" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f0883e">Python</text><rect x="90.2" y="112" width="97" height="26" rx="13" fill="#f0883e" fill-opacity=".14"/><text x="139" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f0883e">Google Cloud</text><rect x="195.60000000000002" y="112" width="33" height="26" rx="13" fill="#f0883e" fill-opacity=".14"/><text x="212" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#f0883e">LLM</text>
+</svg>
