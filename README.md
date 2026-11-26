@@ -25,24 +25,20 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 <td width="50%"><a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist.svg" alt="autolist-engine: product photo to approved listing" width="420"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Oratias07/job-agent"><img src="assets/job-agent.svg" alt="job-agent: daily student jobs with tailored CVs" width="420"></a></td>
-<td width="50%"><a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420"></a></td>
-</tr>
-<tr>
 <td width="50%"><a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="420"></a></td>
 <td width="50%"><a href="https://github.com/Oratias07/telegram-ai-assistant"><img src="assets/telegram.svg" alt="telegram-ai-assistant: web search with sources" width="420"></a></td>
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center"><a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-systems.svg" alt="Operating Systems in C: concurrency labs, garage simulator, shell and file encryptor" width="860"></a></td>
 </tr>
 </table>
 
 <details>
 <summary><b>More projects</b> (click to expand)</summary>
 
-- [AI-workflow](https://github.com/Oratias07/AI-workflow): the prompts and principles I use to work with AI critically
 - [data-mining-and-ML-course](https://github.com/Oratias07/data-mining-and-ML-course): labs on clustering, classification and evaluation
 - [C-portfolio](https://github.com/Oratias07/C-portfolio): data structures in C
 - [java-oop-exercises](https://github.com/Oratias07/java-oop-exercises): object-oriented design in Java
-- [telegramBot](https://github.com/Oratias07/telegramBot): writes Hebrew LinkedIn posts
-- [Learning-Center-by-Gemini](https://github.com/Oratias07/Learning-Center-by-Gemini): study assistant that answers from uploaded notes
 
 </details>
 
@@ -54,7 +50,7 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 | **Languages** | C · C++ · Python · TypeScript · Java · Assembly · HDL |
 | **Systems** | Processes and threads · memory management · Linux · CPU architecture |
 | **AI** | LLM integration · RAG · prompt engineering · prompt-injection defense |
-| **Backend and cloud** | Node.js · REST · MongoDB · Google Cloud · Docker · GitHub Actions |
+| **Backend and cloud** | MongoDB · Google Cloud · Docker · GitHub Actions |
 | **Security** | RBAC · OAuth 2.0 · sandboxed execution · rate limiting |
 
 </details>
