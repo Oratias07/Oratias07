@@ -21,12 +21,8 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 
 <div align="center">
 
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420"></a>
-
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><picture>
-<source media="(max-width: 600px)" srcset="assets/os-systems-m.svg">
-<img src="assets/os-systems.svg" alt="Operating Systems in C: concurrency labs, garage simulator, shell and file encryptor" width="860">
-</picture></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420" align="top"></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-card.svg" alt="Operating Systems in C: concurrency and synchronization labs, and a multi-level shell" width="420" align="top"></a>
 
 <a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="420"></a>
 <a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist.svg" alt="autolist-engine: product photo to approved listing" width="420"></a>
