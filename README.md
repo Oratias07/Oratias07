@@ -1,86 +1,78 @@
 <div align="center">
-  Hi, I'm Or Atias
 
-  **Software Engineering Student · Systems Programming · AI Integration · Security**
+# Or Atias
 
-  📍 Israel &nbsp;|&nbsp; Building at the hardware-software boundary &nbsp;|&nbsp; Moving into security
+**Software Engineering student (3rd year) · Systems programming · AI engineering · Security**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-oratias07-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/oratias07)
-  [![GitHub](https://img.shields.io/badge/GitHub-Oratias07-181717?style=flat&logo=github)](https://github.com/Oratias07)
+Israel · Open to student / junior roles · up to 3 days a week · flexible location
 
-</div>
-
----
-
-### About Me
-
-Third-year Software Engineering student (GPA 85) with hands-on experience in low-level C/C++ systems
-programming, full-stack AI integration, and security-focused backend work. Teaches C to Ministry of Defense
-personnel and TAs systems programming at Braude - sharpening precision, composure under pressure, and
-the ability to own complex debugging end-to-end.
-
----
-
-### Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly_x86-6E4C13?style=flat)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**AI / LLM**
-
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-RAG · Multi-provider orchestration · Prompt engineering · Prompt injection defense
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oratias07&layout=compact&theme=dark&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oratias07-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/oratias07)
+[![Email](https://img.shields.io/badge/Email-atiasor85@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:atiasor85@gmail.com)
 
 </div>
 
 ---
 
-### Featured Projects
+## About
 
-| Repository | Stack | Description |
-|---|---|---|
-| [CHAM-Agent](https://github.com/Oratias07/CHAM-Agent) | TypeScript · React 19 · MongoDB · Vercel | Production SaaS grading platform: sandboxed code execution (Judge0), multi-provider LLM pipeline (Groq → Gemini → OpenAI), RAG study assistant, prompt injection defense — [live](https://stsystem.vercel.app) |
-| [C-protfolio](https://github.com/Oratias07/C-protfolio) | C | Custom malloc/free from scratch: block metadata, first-fit & best-fit, coalescing — stress-tested against double-free and fragmentation |
-| [file_crypt](https://github.com/Oratias07/os-concurrency-cryptography) | C | ChaCha20 file encryption (RFC 8439): SHA-256 authentication, /dev/urandom nonces, cleanly separated cipher primitives and key/nonce management — crypto limitations documented as a reference |
-| [AI-workflow](https://github.com/Oratias07/AI-workflow) | — | How I work with AI — prompts, methodology, and principles for developers moving into security |
-| [Computing-Foundamentals](https://github.com/Oratias07/Computing-Foundamentals) | HDL · Assembly | Nand2Tetris computer built from first principles: Boolean gates → ALU → sequential logic (registers, RAM) → working CPU, each unit tested against hardware-simulation specs |
+I build software that has to be correct: low-level C that talks directly to the operating system, and AI-powered systems that are checked, sandboxed and safe to put in front of real users.
+I teach C to career-changers in a Ministry of Defense cyber program and assist a college systems-programming course, so explaining hard things clearly is part of my daily work.
 
 ---
 
-### Volunteer
+## Projects
 
-**Crisis Companion · Maana (מענה) · 2024–Present**
-Certified crisis accompaniment for individuals experiencing acute anxiety, psychological crises, and psychoactive substance experiences. High-stakes, unpredictable environments requiring composure, active listening, and clear communication under extreme pressure.
+### [CHAM-Agent](https://github.com/Oratias07/CHAM-Agent) · AI code-grading platform · [live demo](https://stsystem.vercel.app)
+A live platform that helps lecturers grade programming assignments. Student code is run in an isolated sandbox, several AI models review its quality (with automatic fallback if one is down), and uncertain cases are sent to a human instead of being guessed. It is hardened against students trying to trick the AI grader. Feedback is delivered in Hebrew.
+*TypeScript, React, Node.js, MongoDB*
+
+### [autolist-engine](https://github.com/Oratias07/autolist-engine) · AI product-listing agent
+A shop owner emails a product photo; the agent researches the product, writes the listing, creates images and replies with a preview. Nothing goes live until the owner approves that exact version. Runs serverless on Google Cloud with strict module boundaries enforced in CI.
+*Python, LLM APIs, Google Cloud*
+
+### [job-agent](https://github.com/Oratias07/job-agent) · Job-search automation
+Checks 7 Israeli job boards twice a day, and for every new student position writes a tailored CV and cover letter (PDF) and sends them by email and Telegram. A Telegram bot does the same on demand: send a job link, get the documents back in about 20 seconds.
+*Python, GitHub Actions, LLM APIs*
+
+### [file_crypt](https://github.com/Oratias07/os-concurrency-cryptography) · File encryption in C
+An encryption tool with the ChaCha20 cipher (RFC 8439) and SHA-256 passcode check written from the published standards, with no crypto libraries. The README honestly documents its known limits. The same repo holds my operating-systems work: threads, semaphores, dining philosophers and a multi-threaded garage simulator.
+*C, POSIX threads*
+
+### [Computing-Fundamentals](https://github.com/Oratias07/Computing-Fundamentals) · A computer built from logic gates
+Following Nand2Tetris: starting from a single NAND gate, I built the adders, the ALU, memory and a working CPU, then moved up through assembly, the assembler, the VM translator and the compiler stages. Every chip is verified against its test specification.
+*HDL, Assembly, C*
+
+### [telegram-ai-assistant](https://github.com/Oratias07/telegram-ai-assistant) · Secure AI assistant
+A Telegram assistant that chats, searches the web and writes researched answers with cited sources. Built with protection against unsafe link fetching (SSRF), prompt injection and abuse (rate limits).
+*Python, Groq LLM*
+
+### More
+- [AI-workflow](https://github.com/Oratias07/AI-workflow): the prompts and principles I use to work with AI critically
+- [data-mining-and-ML-course](https://github.com/Oratias07/data-mining-and-ML-course): labs on clustering, classification and model evaluation
+- [C-portfolio](https://github.com/Oratias07/C-portfolio): data structures in C (linked lists, stacks, generic programming)
+- [java-oop-exercises](https://github.com/Oratias07/java-oop-exercises): object-oriented design projects and exam solutions in Java
+- [telegramBot](https://github.com/Oratias07/telegramBot): Telegram bot that writes Hebrew LinkedIn posts
+- [Learning-Center-by-Gemini](https://github.com/Oratias07/Learning-Center-by-Gemini): study assistant that answers from uploaded course notes
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | C · C++ · Python · TypeScript · Java · Assembly · HDL |
+| **Systems** | Processes and threads · memory management · Linux and shell · CPU architecture |
+| **AI** | LLM integration · RAG · prompt engineering · prompt-injection defense |
+| **Backend and cloud** | Node.js · REST APIs · MongoDB · Google Cloud · Docker · GitHub Actions |
+| **Security** | Access control (RBAC) · OAuth 2.0 · sandboxed execution · rate limiting |
+
+---
+
+## Experience
+
+- **C Programming Instructor**, Cyber Education Program, Ministry of Defense (2025 to now): teaching C (pointers, memory, recursion) to cohorts of 15 career-changers.
+- **Systems Programming Teaching Assistant**, Braude College of Engineering (2025 to now): wrote 30+ exercises and review code for 20+ students.
+- **Academic research**, Braude College of Engineering (2026): independent study on AI-based automatic assessment in computer-science education.
+- **Crisis companion (volunteer)**, Ma'ana (2024 to now): supporting people in acute psychological distress.
+
+**Education:** B.Sc. Software Engineering, Braude College of Engineering, 2024 to present (GPA 85)
