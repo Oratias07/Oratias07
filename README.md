@@ -33,6 +33,7 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 <details>
 <summary><b>More projects</b> (click to expand)</summary>
 
+- [telegram-ai-assistant](https://github.com/Oratias07/telegram-ai-assistant): Telegram assistant that searches the web and answers with sources
 - [data-mining-and-ML-course](https://github.com/Oratias07/data-mining-and-ML-course): labs on clustering, classification and evaluation
 - [C-portfolio](https://github.com/Oratias07/C-portfolio): data structures in C
 - [java-oop-exercises](https://github.com/Oratias07/java-oop-exercises): object-oriented design in Java
