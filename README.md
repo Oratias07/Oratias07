@@ -19,15 +19,14 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 
 ## Projects
 
-<div align="center">
+<div>
 
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420" align="top"></a>
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-card.svg" alt="Operating Systems in C: concurrency and synchronization labs, and a multi-level shell" width="420" align="top"></a>
-
-<a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="420"></a>
-<a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist.svg" alt="autolist-engine: product photo to approved listing" width="420"></a>
-<a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="420"></a>
-<a href="https://github.com/Oratias07/telegram-ai-assistant"><img src="assets/telegram.svg" alt="telegram-ai-assistant: web search with sources" width="420"></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt-2.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="420"></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-card-2.svg" alt="Operating Systems in C: concurrency and synchronization labs, and a multi-level shell" width="420" align="right"></a>
+<a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham-2.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="420"></a>
+<br clear="all">
+<a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist-2.svg" alt="autolist-engine: product photo to approved listing" width="420"></a>
+<a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing-2.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="420"></a>
 
 </div>
 
