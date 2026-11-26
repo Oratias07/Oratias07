@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" role="img" aria-label="job-agent: Finds new student jobs every day and writes a tailored CV and cover letter for each.">
+<title>job-agent</title>
+<rect x=".5" y=".5" width="499" height="159" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="7" height="160" rx="3" fill="#3fb950"/>
+<g transform="translate(30,24)" fill="none" stroke="#3fb950" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="14" cy="14" r="9"/><path d="M21 21L29 29"/></g>
+<text x="76" y="44" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#e6edf3">job-agent</text>
+<text x="28" y="82" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">Finds new student jobs every day and writes a</text>
+<text x="28" y="102" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14.5" fill="#9da7b3">tailored CV and cover letter for each.</text>
+<rect x="28" y="112" width="54" height="26" rx="13" fill="#3fb950" fill-opacity=".14"/><text x="55" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#3fb950">Python</text><rect x="90.2" y="112" width="112" height="26" rx="13" fill="#3fb950" fill-opacity=".14"/><text x="146" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#3fb950">GitHub Actions</text><rect x="210.0" y="112" width="33" height="26" rx="13" fill="#3fb950" fill-opacity=".14"/><text x="226" y="129.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#3fb950">LLM</text>
+</svg>
