@@ -2,9 +2,9 @@
 
 <img src="assets/hero.svg" alt="Or Atias, Software Engineering student" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oratias07-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oratias07)
-[![Email](https://img.shields.io/badge/Email-atiasor85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiasor85@gmail.com)
-[![Live demo](https://img.shields.io/badge/Live%20demo-CHAM--Agent-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://stsystem.vercel.app)
+<a href="https://www.linkedin.com/in/oratias07"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:atiasor85@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stsystem.vercel.app"><img src="assets/btn-demo.svg" alt="Live demo of CHAM-Agent" height="48"></a>
 
 </div>
 
