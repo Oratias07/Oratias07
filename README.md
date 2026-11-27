@@ -21,12 +21,12 @@ I also teach C in a Ministry of Defense cyber program, so explaining hard things
 
 <div>
 
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt-2.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="390"></a>
-<a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham-2.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="390"></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/file-crypt-2.svg" alt="file_crypt: ChaCha20 and SHA-256 in C" width="380" align="left"></a>
+<a href="https://github.com/Oratias07/CHAM-Agent"><img src="assets/cham-2.svg" alt="CHAM-Agent: grades student code in a sandbox with AI reviewers" width="380"></a>
 <br clear="all">
-<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-card-3.svg" alt="Operating Systems in C: concurrency and synchronization labs, and a multi-level shell" width="390" align="left"></a>
-<a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist-2.svg" alt="autolist-engine: product photo to approved listing" width="390"></a>
-<a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing-2.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="390"></a>
+<a href="https://github.com/Oratias07/os-concurrency-cryptography"><img src="assets/os-card-3.svg" alt="Operating Systems in C: concurrency and synchronization labs, and a multi-level shell" width="380" align="left"></a>
+<a href="https://github.com/Oratias07/autolist-engine"><img src="assets/autolist-2.svg" alt="autolist-engine: product photo to approved listing" width="380"></a>
+<a href="https://github.com/Oratias07/Computing-Fundamentals"><img src="assets/computing-2.svg" alt="Computing-Fundamentals: a computer from a NAND gate" width="380"></a>
 <br clear="all">
 
 </div>
